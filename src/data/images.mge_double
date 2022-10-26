@@ -1,0 +1,10 @@
+HEALTHBAR:../src/gfx/icons/healthbar2.bmp
+HEART:../src/gfx/items/heart.bmp
+MERLIN:../src/gfx/character/merlin_cozy.bmp
+MERLIN_TEST:../src/gfx/character/merlin_test.bmp
+MERLIN_MELO:../src/gfx/character/merlin_melo.bmp
+COCK_THROWER_BODY:../src/gfx/enemies/cock_thrower.bmp
+COCK_THROWER_HEAD:../src/gfx/enemies/cock_thrower_head.bmp
+VELO:../src/gfx/items/melo.bmp
+MANA_SHARD:../src/gfx/items/mana_shard.bmp
+MOUTH:../src/gfx/character/merlin_mouth.bmp

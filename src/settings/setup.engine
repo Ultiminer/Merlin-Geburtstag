@@ -1,0 +1,8 @@
+<Setup>
+<WINDOW_NAME>Merlin Ver. 1.0.0</WINDOW_NAME>
+<FRAMERATE>120</FRAMERATE>
+<MOUSE_SHOWN>1</MOUSE_SHOWN>
+<GAME_ICON>../src/gfx/icons/desktop.bmp</GAME_ICON>
+<CURSOR_ICON>../src/gfx/icons/cursor.bmp</CURSOR_ICON>
+<CURSOR_CLICK_ICON>../src/gfx/icons/cursor2.bmp</CURSOR_CLICK_ICON>
+</Setup>

@@ -1,0 +1,20 @@
+Fri May  6 11:11:44 2022
+Beginning of Main Initialization...
+Created Application class!!
+Initialized Setup class!!
+Set Event var in Application class!
+character
+Initialized Character var in Application class!
+Freeing cursor!
+Freeing cursor click!
+Destroying window!
+Destroying renderer!
+Freeing iconSurface!
+Freeing cursorSurface!
+Freeing cursorClickSurface!
+Deleting event!
+Calling SDL_Quit()!
+Deleted setup class
+Del CHARAC
+Deleted character class
+Fri May  6 11:13:41 2022

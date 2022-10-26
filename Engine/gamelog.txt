@@ -1,0 +1,44 @@
+Sun Sep 11 17:40:24 2022
+Beginning of Main Initialization...
+>Created Application class!!
+>ALLOCATING MGE_TEXTBOX FROM SETUP CLASS
+>Initialized Setup class!!
+>Set Event var in Application class!
+>CREATED TEXTURE MAP
+>Added: HEALTHBAR texture!!
+>Added: HEART texture!!
+>Added: MERLIN texture!!
+>Added: MERLIN_TEST texture!!
+>Added: MERLIN_MELO texture!!
+>Added: COCK_THROWER_BODY texture!!
+>Added: COCK_THROWER_HEAD texture!!
+>Added: VELO texture!!
+>Added: MANA_SHARD texture!!
+>Added: MOUTH texture!!
+>Filled Textures!
+>Initialized Camera!!
+>character
+>Initialized Character var in Application class!
+>TextureMap::Erased: COCK_THROWER_BODY obj.
+>TextureMap::Erased: COCK_THROWER_HEAD obj.
+>TextureMap::Erased: HEALTHBAR obj.
+>TextureMap::Erased: HEART obj.
+>TextureMap::Erased: MANA_SHARD obj.
+>TextureMap::Erased: MERLIN obj.
+>TextureMap::Erased: MERLIN_MELO obj.
+>TextureMap::Erased: MERLIN_TEST obj.
+>TextureMap::Erased: MOUTH obj.
+>TextureMap::Erased: VELO obj.
+>Deleted TEXTURE_MAP
+>Freeing cursor!
+>Freeing cursor click!
+>Destroying window!
+>Destroying renderer!
+>Freeing iconSurface!
+>Freeing cursorSurface!
+>Freeing cursorClickSurface!
+>Deleting event!
+>Calling SDL_Quit()!
+>DELETING MGE TEXTBOX
+>Deleted setup class
+>Sun Sep 11 17:40:55 2022

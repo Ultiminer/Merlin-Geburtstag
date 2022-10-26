@@ -1,0 +1,18 @@
+<Merlin>
+ <widthProportion>0.05</widthProportion>
+ <heightProportion>0.1</heightProportion>
+ <image>../src/gfx/character/merlin_cozy.bmp</image>
+ <frisbee_image>../src/gfx/projectiles/frisbee.bmp</frisbee_image>
+ <damage>0.25</damage>
+ <health>2</health>
+ <MP>10</MP>
+  <anim_rows>3</anim_rows>
+ <anim_cols>8</anim_cols>
+ <anim_dur>80</anim_dur>
+ <anim_walkD>0</anim_walkD>
+ <anim_walkU>1</anim_walkU>
+ <anim_walkL></anim_walkL>
+ <anim_walkR></anim_walkR>
+ <speed>0.4</speed>
+
+</Merlin>
